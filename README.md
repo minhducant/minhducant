@@ -62,11 +62,3 @@
 ---
 
 ⭐️ From [Do Minh Duc](https://github.com/minhducant)
-
-### 🐍 Commit Snake Animation
-
-<!-- Light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhducant/minhducant/gh-pages/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/minhducant/minhducant/gh-pages/github-contribution-grid-snake.svg" />
-</picture>
