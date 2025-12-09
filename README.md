@@ -27,10 +27,10 @@
 
 ---
 
-### 📈 GitHub Activity
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhducant&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minhducant&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
