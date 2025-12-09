@@ -27,17 +27,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=minhducant&show_icons=true&theme=radical"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=minhducant&theme=radical"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhducant&theme=react-dark&hide_border=true" />
 </p>
+
 ---
 
 ### 🔥 My Work Experience
